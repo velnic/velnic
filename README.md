@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Nicolas
 
-* 💻 Software Engineer with ~10 years of frontend experience — React, design systems, and whatever looks interesting.
+* 💻 Software Engineer with ~9 years of experience — React, design systems, and whatever looks interesting.
 * 🕵️ Currently going deep into CTFs. I break things on purpose and write about it at [velnic.dev](https://velnic.dev). 
 
 
